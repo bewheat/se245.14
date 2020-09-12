@@ -1,0 +1,11 @@
+C:\Users\thewi\OneDrive - New England Institute of Technology\New England Tech\Term 4\SE245.14[C#]\se245-\Labs\ddavis_lab_4\ddavis_lab_4\bin\Debug\netcoreapp2.1\ddavis_lab_4.deps.json
+C:\Users\thewi\OneDrive - New England Institute of Technology\New England Tech\Term 4\SE245.14[C#]\se245-\Labs\ddavis_lab_4\ddavis_lab_4\bin\Debug\netcoreapp2.1\ddavis_lab_4.runtimeconfig.json
+C:\Users\thewi\OneDrive - New England Institute of Technology\New England Tech\Term 4\SE245.14[C#]\se245-\Labs\ddavis_lab_4\ddavis_lab_4\bin\Debug\netcoreapp2.1\ddavis_lab_4.runtimeconfig.dev.json
+C:\Users\thewi\OneDrive - New England Institute of Technology\New England Tech\Term 4\SE245.14[C#]\se245-\Labs\ddavis_lab_4\ddavis_lab_4\bin\Debug\netcoreapp2.1\ddavis_lab_4.dll
+C:\Users\thewi\OneDrive - New England Institute of Technology\New England Tech\Term 4\SE245.14[C#]\se245-\Labs\ddavis_lab_4\ddavis_lab_4\bin\Debug\netcoreapp2.1\ddavis_lab_4.pdb
+C:\Users\thewi\OneDrive - New England Institute of Technology\New England Tech\Term 4\SE245.14[C#]\se245-\Labs\ddavis_lab_4\ddavis_lab_4\obj\Debug\netcoreapp2.1\ddavis_lab_4.csprojAssemblyReference.cache
+C:\Users\thewi\OneDrive - New England Institute of Technology\New England Tech\Term 4\SE245.14[C#]\se245-\Labs\ddavis_lab_4\ddavis_lab_4\obj\Debug\netcoreapp2.1\ddavis_lab_4.csproj.CoreCompileInputs.cache
+C:\Users\thewi\OneDrive - New England Institute of Technology\New England Tech\Term 4\SE245.14[C#]\se245-\Labs\ddavis_lab_4\ddavis_lab_4\obj\Debug\netcoreapp2.1\ddavis_lab_4.AssemblyInfoInputs.cache
+C:\Users\thewi\OneDrive - New England Institute of Technology\New England Tech\Term 4\SE245.14[C#]\se245-\Labs\ddavis_lab_4\ddavis_lab_4\obj\Debug\netcoreapp2.1\ddavis_lab_4.AssemblyInfo.cs
+C:\Users\thewi\OneDrive - New England Institute of Technology\New England Tech\Term 4\SE245.14[C#]\se245-\Labs\ddavis_lab_4\ddavis_lab_4\obj\Debug\netcoreapp2.1\ddavis_lab_4.dll
+C:\Users\thewi\OneDrive - New England Institute of Technology\New England Tech\Term 4\SE245.14[C#]\se245-\Labs\ddavis_lab_4\ddavis_lab_4\obj\Debug\netcoreapp2.1\ddavis_lab_4.pdb

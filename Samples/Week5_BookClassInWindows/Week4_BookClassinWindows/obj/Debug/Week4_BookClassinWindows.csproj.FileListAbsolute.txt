@@ -1,0 +1,10 @@
+C:\Users\Scott Lambert\Documents\NEIT\Courses\SE245-Console\Week 5\Week5_BookClassInWindows\Week4_BookClassinWindows\bin\Debug\Week4_BookClassinWindows.exe.config
+C:\Users\Scott Lambert\Documents\NEIT\Courses\SE245-Console\Week 5\Week5_BookClassInWindows\Week4_BookClassinWindows\bin\Debug\Week4_BookClassinWindows.exe
+C:\Users\Scott Lambert\Documents\NEIT\Courses\SE245-Console\Week 5\Week5_BookClassInWindows\Week4_BookClassinWindows\bin\Debug\Week4_BookClassinWindows.pdb
+C:\Users\Scott Lambert\Documents\NEIT\Courses\SE245-Console\Week 5\Week5_BookClassInWindows\Week4_BookClassinWindows\obj\Debug\Week4_BookClassinWindows.csprojAssemblyReference.cache
+C:\Users\Scott Lambert\Documents\NEIT\Courses\SE245-Console\Week 5\Week5_BookClassInWindows\Week4_BookClassinWindows\obj\Debug\Week4_BookClassinWindows.Properties.Resources.resources
+C:\Users\Scott Lambert\Documents\NEIT\Courses\SE245-Console\Week 5\Week5_BookClassInWindows\Week4_BookClassinWindows\obj\Debug\Week4_BookClassinWindows.csproj.GenerateResource.cache
+C:\Users\Scott Lambert\Documents\NEIT\Courses\SE245-Console\Week 5\Week5_BookClassInWindows\Week4_BookClassinWindows\obj\Debug\Week4_BookClassinWindows.csproj.CoreCompileInputs.cache
+C:\Users\Scott Lambert\Documents\NEIT\Courses\SE245-Console\Week 5\Week5_BookClassInWindows\Week4_BookClassinWindows\obj\Debug\Week4_BookClassinWindows.exe
+C:\Users\Scott Lambert\Documents\NEIT\Courses\SE245-Console\Week 5\Week5_BookClassInWindows\Week4_BookClassinWindows\obj\Debug\Week4_BookClassinWindows.pdb
+C:\Users\Scott Lambert\Documents\NEIT\Courses\SE245-Console\Week 5\Week5_BookClassInWindows\Week4_BookClassinWindows\obj\Debug\Week4_BookClassinWindows.Form1.resources

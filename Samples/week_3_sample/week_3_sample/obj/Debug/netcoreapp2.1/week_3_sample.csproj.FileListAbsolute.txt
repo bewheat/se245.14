@@ -1,0 +1,11 @@
+C:\Users\thewi\OneDrive - New England Institute of Technology\New England Tech\Term 4\SE245.14[C#]\se245\Sample Code\week_3_sample\week_3_sample\obj\Debug\netcoreapp2.1\week_3_sample.csprojAssemblyReference.cache
+C:\Users\thewi\OneDrive - New England Institute of Technology\New England Tech\Term 4\SE245.14[C#]\se245\Sample Code\week_3_sample\week_3_sample\obj\Debug\netcoreapp2.1\week_3_sample.csproj.CoreCompileInputs.cache
+C:\Users\thewi\OneDrive - New England Institute of Technology\New England Tech\Term 4\SE245.14[C#]\se245\Sample Code\week_3_sample\week_3_sample\obj\Debug\netcoreapp2.1\week_3_sample.AssemblyInfoInputs.cache
+C:\Users\thewi\OneDrive - New England Institute of Technology\New England Tech\Term 4\SE245.14[C#]\se245\Sample Code\week_3_sample\week_3_sample\obj\Debug\netcoreapp2.1\week_3_sample.AssemblyInfo.cs
+C:\Users\thewi\OneDrive - New England Institute of Technology\New England Tech\Term 4\SE245.14[C#]\se245\Sample Code\week_3_sample\week_3_sample\bin\Debug\netcoreapp2.1\week_3_sample.deps.json
+C:\Users\thewi\OneDrive - New England Institute of Technology\New England Tech\Term 4\SE245.14[C#]\se245\Sample Code\week_3_sample\week_3_sample\bin\Debug\netcoreapp2.1\week_3_sample.runtimeconfig.json
+C:\Users\thewi\OneDrive - New England Institute of Technology\New England Tech\Term 4\SE245.14[C#]\se245\Sample Code\week_3_sample\week_3_sample\bin\Debug\netcoreapp2.1\week_3_sample.runtimeconfig.dev.json
+C:\Users\thewi\OneDrive - New England Institute of Technology\New England Tech\Term 4\SE245.14[C#]\se245\Sample Code\week_3_sample\week_3_sample\bin\Debug\netcoreapp2.1\week_3_sample.dll
+C:\Users\thewi\OneDrive - New England Institute of Technology\New England Tech\Term 4\SE245.14[C#]\se245\Sample Code\week_3_sample\week_3_sample\bin\Debug\netcoreapp2.1\week_3_sample.pdb
+C:\Users\thewi\OneDrive - New England Institute of Technology\New England Tech\Term 4\SE245.14[C#]\se245\Sample Code\week_3_sample\week_3_sample\obj\Debug\netcoreapp2.1\week_3_sample.dll
+C:\Users\thewi\OneDrive - New England Institute of Technology\New England Tech\Term 4\SE245.14[C#]\se245\Sample Code\week_3_sample\week_3_sample\obj\Debug\netcoreapp2.1\week_3_sample.pdb

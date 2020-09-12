@@ -1,0 +1,6 @@
+C:\Users\slambert\Desktop\Winter2020\ParallelListSample\ParallelListSample\bin\Debug\ParallelListSample.exe.config
+C:\Users\slambert\Desktop\Winter2020\ParallelListSample\ParallelListSample\bin\Debug\ParallelListSample.exe
+C:\Users\slambert\Desktop\Winter2020\ParallelListSample\ParallelListSample\bin\Debug\ParallelListSample.pdb
+C:\Users\slambert\Desktop\Winter2020\ParallelListSample\ParallelListSample\obj\Debug\ParallelListSample.csprojResolveAssemblyReference.cache
+C:\Users\slambert\Desktop\Winter2020\ParallelListSample\ParallelListSample\obj\Debug\ParallelListSample.exe
+C:\Users\slambert\Desktop\Winter2020\ParallelListSample\ParallelListSample\obj\Debug\ParallelListSample.pdb

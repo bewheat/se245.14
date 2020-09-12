@@ -1,0 +1,11 @@
+C:\Users\thewi\OneDrive - New England Institute of Technology\New England Tech\Term 4\SE245.14[C#]\se245\Labs\Lab 2\Lab 2\bin\Debug\netcoreapp2.1\Lab 2.deps.json
+C:\Users\thewi\OneDrive - New England Institute of Technology\New England Tech\Term 4\SE245.14[C#]\se245\Labs\Lab 2\Lab 2\bin\Debug\netcoreapp2.1\Lab 2.runtimeconfig.json
+C:\Users\thewi\OneDrive - New England Institute of Technology\New England Tech\Term 4\SE245.14[C#]\se245\Labs\Lab 2\Lab 2\bin\Debug\netcoreapp2.1\Lab 2.runtimeconfig.dev.json
+C:\Users\thewi\OneDrive - New England Institute of Technology\New England Tech\Term 4\SE245.14[C#]\se245\Labs\Lab 2\Lab 2\bin\Debug\netcoreapp2.1\Lab 2.dll
+C:\Users\thewi\OneDrive - New England Institute of Technology\New England Tech\Term 4\SE245.14[C#]\se245\Labs\Lab 2\Lab 2\bin\Debug\netcoreapp2.1\Lab 2.pdb
+C:\Users\thewi\OneDrive - New England Institute of Technology\New England Tech\Term 4\SE245.14[C#]\se245\Labs\Lab 2\Lab 2\obj\Debug\netcoreapp2.1\Lab 2.csprojAssemblyReference.cache
+C:\Users\thewi\OneDrive - New England Institute of Technology\New England Tech\Term 4\SE245.14[C#]\se245\Labs\Lab 2\Lab 2\obj\Debug\netcoreapp2.1\Lab 2.csproj.CoreCompileInputs.cache
+C:\Users\thewi\OneDrive - New England Institute of Technology\New England Tech\Term 4\SE245.14[C#]\se245\Labs\Lab 2\Lab 2\obj\Debug\netcoreapp2.1\Lab 2.AssemblyInfoInputs.cache
+C:\Users\thewi\OneDrive - New England Institute of Technology\New England Tech\Term 4\SE245.14[C#]\se245\Labs\Lab 2\Lab 2\obj\Debug\netcoreapp2.1\Lab 2.AssemblyInfo.cs
+C:\Users\thewi\OneDrive - New England Institute of Technology\New England Tech\Term 4\SE245.14[C#]\se245\Labs\Lab 2\Lab 2\obj\Debug\netcoreapp2.1\Lab 2.dll
+C:\Users\thewi\OneDrive - New England Institute of Technology\New England Tech\Term 4\SE245.14[C#]\se245\Labs\Lab 2\Lab 2\obj\Debug\netcoreapp2.1\Lab 2.pdb

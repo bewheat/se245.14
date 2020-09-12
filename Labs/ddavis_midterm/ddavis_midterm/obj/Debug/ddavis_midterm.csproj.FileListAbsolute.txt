@@ -1,0 +1,10 @@
+C:\Users\thewi\OneDrive - New England Institute of Technology\New England Tech\Term 4\SE245.14[C#]\se245-\Labs\ddavis_midterm\ddavis_midterm\bin\Debug\ddavis_midterm.exe.config
+C:\Users\thewi\OneDrive - New England Institute of Technology\New England Tech\Term 4\SE245.14[C#]\se245-\Labs\ddavis_midterm\ddavis_midterm\bin\Debug\ddavis_midterm.exe
+C:\Users\thewi\OneDrive - New England Institute of Technology\New England Tech\Term 4\SE245.14[C#]\se245-\Labs\ddavis_midterm\ddavis_midterm\bin\Debug\ddavis_midterm.pdb
+C:\Users\thewi\OneDrive - New England Institute of Technology\New England Tech\Term 4\SE245.14[C#]\se245-\Labs\ddavis_midterm\ddavis_midterm\obj\Debug\ddavis_midterm.csprojAssemblyReference.cache
+C:\Users\thewi\OneDrive - New England Institute of Technology\New England Tech\Term 4\SE245.14[C#]\se245-\Labs\ddavis_midterm\ddavis_midterm\obj\Debug\ddavis_midterm.Form1.resources
+C:\Users\thewi\OneDrive - New England Institute of Technology\New England Tech\Term 4\SE245.14[C#]\se245-\Labs\ddavis_midterm\ddavis_midterm\obj\Debug\ddavis_midterm.Properties.Resources.resources
+C:\Users\thewi\OneDrive - New England Institute of Technology\New England Tech\Term 4\SE245.14[C#]\se245-\Labs\ddavis_midterm\ddavis_midterm\obj\Debug\ddavis_midterm.csproj.GenerateResource.cache
+C:\Users\thewi\OneDrive - New England Institute of Technology\New England Tech\Term 4\SE245.14[C#]\se245-\Labs\ddavis_midterm\ddavis_midterm\obj\Debug\ddavis_midterm.csproj.CoreCompileInputs.cache
+C:\Users\thewi\OneDrive - New England Institute of Technology\New England Tech\Term 4\SE245.14[C#]\se245-\Labs\ddavis_midterm\ddavis_midterm\obj\Debug\ddavis_midterm.exe
+C:\Users\thewi\OneDrive - New England Institute of Technology\New England Tech\Term 4\SE245.14[C#]\se245-\Labs\ddavis_midterm\ddavis_midterm\obj\Debug\ddavis_midterm.pdb
